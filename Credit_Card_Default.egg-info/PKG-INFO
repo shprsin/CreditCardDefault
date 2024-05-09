@@ -1,5 +1,11 @@
 Metadata-Version: 2.1
-Name: Credit-Card-Default
+Name: Credit_Card_Default
 Version: 0.0.1
 Author: SPS
 Author-email: s@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: flask
